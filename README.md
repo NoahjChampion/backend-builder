@@ -1,58 +1,63 @@
-=== Page Builder: KingComposer - Free Drag and Drop page builder by King-Theme ===
+#Page Builder: KingComposer - Free Drag and Drop page builder by King-Theme
+
+Lightweight and extremely powerful Page Builder. Allow you to easily create pages like a true professional without programming knowledge required.
 Contributors: kingthemes
 Donate link: https://www.paypal.me/kingcomposer/5
 Plugin URI: https://kingcomposer.com
 Author URI: https://kingcomposer.com
 Store link: https://kingcomposer.com
 Tags: wordpress, builder, drag drop, website builder, site-builder, site builder, page-builder, website-builder, page builder, king builder, kingcomposer, design, Adaptive Editor, responsive, custom pages, Drag And Drop editor, edit, editing, fonts, drag and drop builder, editor, BackEnd builder, BackEnd editor, FrontEnd builder, FrontEnd editor, html5, image, image backgrounds, images, home page builder, landing page builder, live editor, widgets , king theme, TinyMCE, transitions, video backgrounds, visual editor, content composer layout builder, page, builder, page builder plugin, Page Layout, site builder, Template Builder, visual builder, website builder, wysiwyg editor, theme builder, visual builder, visual composer, visual editor, layout, layout builder, layout builder plugin, page editor, all in one, coming soon page, create landing pages, creating landing pages, responsive, short, short code, shortcode, template, templates
+
 Requires at least: 4.0
+
 Tested up to: 4.8
+
 Stable tag: 4.8
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Lightweight and extremely powerful Page Builder. Allow you to easily create pages like a true professional without programming knowledge required.
-
-== Description ==
+##Description
 
 >[Help and Discussion](http://bit.ly/kcdiscuss "KingComposer Discussion") | [Home Page](https://kingcomposer.com "KingComposer Homepage") |[Try the Demo](http://demo.kingcomposer.com "Demo KingComposer") | [Documents](http://docs.kingcomposer.com "Documents") | [Pro Version](https://kingcomposer.com/pricing/ "Pro Version")
 
-= Easily design and build any professional looking websites =
+##Easily design and build any professional looking websites
 
 KingComposer is the fastest page builder ever. It’s real-time and instant process. With professional Back-End Editor for free 100%, it comes complete with top-notch features embedded and a truly intuitive UI. With no programming knowledge required. KingComposer can save you both time and headache, allowing you to easily create pages like a true professional web designer.
 
 
-= Important Notice: =
+##Important Notice:
 
 - If you are Wordpress theme author, you can use and include this plugin as free to build themes for sale.
 - The Front—End Editor & Addons are only available on pro version.
 
 
-= Free Version:  =
+##Free Version:  =
+```
+	- Full features Back-End Editor.
+	- CSS system in backend
+	- RESPONSIVE system in backend
+	- Install free online section presets
+	- Offline section presets
+	- Access our developer forum on any trouble
+	- Access our documents
+	- Access our videos tutorials
+	- Access our articles tutorials
+```
 
-	&#9658; Full features Back-End Editor.
-	&#9658; CSS system in backend
-	&#9658; RESPONSIVE system in backend
-	&#9658; Install free online section presets
-	&#9658; Offline section presets
-	&#9658; Access our developer forum on any trouble
-	&#9658; Access our documents
-	&#9658; Access our videos tutorials
-	&#9658; Access our articles tutorials
-
-=  Pro Version: =
-
-	&#9658; All features from free version
-	&#9658; Live CSS System, visually and realtime preview
-	&#9658; Live Inspector CSS <Instant real-time>
-	&#9658; Live RESPONSIVE SYSTEM <Instant real-time>
-	&#9658; Install online section presets
-	&#9658; Front-End & Back-End editors
-	&#9658; Support to convert any existing element to Front-End usability
-	&#9658; Premium support, chat with our developers
-	&#9658; Access our free online presets
-	&#9658; Commerce license & support to integrate with Wordpress theme for sell
-	&#9658; White Labelling & support to rename plugin to your brand
+##Pro Version: =
+```
+	- All features from free version
+	- Live CSS System, visually and realtime preview
+	- Live Inspector CSS <Instant real-time>
+	- Live RESPONSIVE SYSTEM <Instant real-time>
+	- Install online section presets
+	- Front-End & Back-End editors
+	- Support to convert any existing element to Front-End usability
+	- Premium support, chat with our developers
+	- Access our free online presets
+	- Commerce license & support to integrate with Wordpress theme for sell
+	- White Labelling & support to rename plugin to your brand
+```
 
 [youtube https://www.youtube.com/watch?v=kFANGxXh6Fw]
 
