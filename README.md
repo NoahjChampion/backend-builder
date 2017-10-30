@@ -24,8 +24,6 @@ License: GPLv3 or later
 
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-## Description
-
 >[Help and Discussion](http://bit.ly/kcdiscuss "KingComposer Discussion") | [Home Page](https://kingcomposer.com "KingComposer Homepage") |[Try the Demo](http://demo.kingcomposer.com "Demo KingComposer") | [Documents](http://docs.kingcomposer.com "Documents") | [Pro Version](https://kingcomposer.com/pricing/ "Pro Version")
 
 ## Easily design and build any professional looking websites
@@ -69,58 +67,60 @@ KingComposer is the fastest page builder ever. It’s real-time and instant proc
 
 [youtube https://www.youtube.com/watch?v=kFANGxXh6Fw]
 
-## Pre-render content =
+## Features
+
+### Pre-render content
 
 - Build with KingComposer page builder, your pages will still display well even the KingComposer plugin is deactived or deleted
 
-## Powerful CSS system =
+### Powerful CSS system
 
 - KingComposer has super CSS system, allow you customize the styling of any elements in any screen size (Responsive)
 
-## All actions happen instantly =
+### All actions happen instantly
 
 - Ajax actions takes a long time to happen? KingComposer don't use Ajax in Backend or less in Frontend. All actions and changed are completed instantly and without fault!
 
-## Online Presets =
+### Online Presets
 
 - Install immediately hundreds of Online Presets, it’s free and all CSS styling are ready to use. You only need to change default text to yours.
 
-## Sections Library =
+### Sections Library
 
 - Save what you did with a screenshot into sections and use them in another place. Especial, you can include them, that means you only need to edit in one place and display in many places such as header, footer, sidebar…etc
 
-## Fonts Manager =
+### Fonts Manager
 
 - Update real-time over 850+ google fonts and real preview all of theme. Select what you want up to 10 fonts including your site.
 
-## Fully Copy/Paste Elements =
+### Fully Copy/Paste Elements
 
 - Feel free to copy any element you want and paste it anywhere you need. All copy-paste actions are executed immediately - even copy and paste on between different browser tabs.
 
-## Unlimited Containers =
+### Unlimited Containers
 
 - There is no limit to the amount of rows and containers KingComposer allows. Allow you imagination to run wild! KingComposer will take care of all the technical aspects.
 
-## Flexible Columns =
+### Flexible Columns
 
 - Support 5 columns layout, plus the ability of doubling the last column’s content and sorting columns in a row. Last but not least, it allows you to re-size the column width by a mouse click & mouse drag.
 
-## Advanced KC Box =
+### Advanced KC Box
 
 - All in One Element: This special element is eager to WOW both End User and Developer since it helps you to build any complex page at ease. Thanks to it, you will be able to design static elements, drag & drop nodes, set attribute, import & export HTML code, visualize CSS properties for each node and more.
 
-## WP-Widgets & 3rd-party widgets compatibility =
+### WP-Widgets & 3rd-party widgets compatibility
 
 - KingComposer is compatible with all default WordPress widgets as well as 3rd party plugins, so it will work smoothly with both newly-created websites and a few plugins built in, as well as huge websites with dozens of plugins added.
 
-## Sections Manager =
+### Sections Manager
 
 - Rows form a section. You will be able to install a section, add a screenshot to it or edit row amount inside. This is an outstanding tool for theme authors – who need to pack and deliver sample data to their customers.
 
-## And much more things are waitting for you discover =
+### And much more things are waitting for you discover =
 - Check screenshots: https://wordpress.org/plugins/kingcomposer/screenshots/
 
-## Documents & License =
+## Documents & License
 
 - [docs] http://docs.kingcomposer.com
 - [demo] http://demo.kingcomposer.com
@@ -131,34 +131,31 @@ KingComposer is the fastest page builder ever. It’s real-time and instant proc
 - [Twitter] https://twitter.com/kingtheme
 - [Facebook] https://facebook.com/kingcomposer
 
-## Installation ==
+## Installation
 
-### Option 1. =
+### Option 1.
 
 - Upload the entire `kingcomposer` folder to the `/wp-content/plugins/` directory. =
 - Activate the plugin through the 'Plugins' menu in WordPress.
 
-### Option 2. =
+### Option 2.
 
 - From your wp-admin —> Plugins —> Add New —> Search "kingcomposer" —> Click install.
 - After plugin is downloaded, click active plugin
 
-### After active the pluign =
+### After active the pluign
 
 - go to Pages and edit current pages or create new page. You will find a new button "KingComposer" above of WP Editor.
 - You will find 'KingComposer' menu in your WordPress admin panel.
 
 
-## Frequently Asked Questions ==
+## Frequently Asked Questions
 
 Do you have questions or issues with KingComposer? Use these support channels appropriately.
 
 1. [Docs](http://docs.kingcomposer.com/)
-1. [FAQ](https://kingcomposer.com/faq/)
-1. [Support Forum](http://wordpress.org/support/plugin/kingcomposer)
-
-[Help Desk](http://help.king-theme.com/)
-
+2. [FAQ](https://kingcomposer.com/faq/)
+3. [Support Forum](http://wordpress.org/support/plugin/kingcomposer)
 
 ## Changelog
 = 2.6.16 (Sep 16, 2017) =
