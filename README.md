@@ -1,4 +1,4 @@
-# Page Builder: KingComposer - Free Drag and Drop page builder by King-Theme
+# KingComposer - Free Drag and Drop page builder by King-Theme
 
 Lightweight and extremely powerful Page Builder. Allow you to easily create pages like a true professional without programming knowledge required.
 
